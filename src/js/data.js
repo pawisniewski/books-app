@@ -9,7 +9,7 @@ dataSource.books = [
     rating: 8,
     image: 'images/books/1.jpg',
     ratingWidth: 80,
-    ratingBgc: 'linear-gradient(to bottom, #b4df5b 0%,#b4df5b 100%);',
+    //ratingBgc: 'linear-gradient(to bottom, #b4df5b 0%,#b4df5b 100%);',
     details: {
       adults: true,
       nonFiction: false
@@ -22,7 +22,7 @@ dataSource.books = [
     rating: 9.2,
     image: 'images/books/2.jpg',
     ratingWidth: 92,
-    ratingBgc: 'linear-gradient(to bottom, #ff0084 0%,#ff0084 100%);',
+    //ratingBgc: 'linear-gradient(to bottom, #ff0084 0%,#ff0084 100%);',
     details: {
       adults: false,
       nonFiction: true
@@ -35,7 +35,7 @@ dataSource.books = [
     price: 20,
     rating: 7.8,
     ratingWidth: 78,
-    ratingBgc: 'linear-gradient(to bottom, #b4df5b 0%,#b4df5b 100%);',
+    //ratingBgc: 'linear-gradient(to bottom, #b4df5b 0%,#b4df5b 100%);',
     details: {
       adults: false,
       nonFiction: true
@@ -48,7 +48,7 @@ dataSource.books = [
     price: 40,
     rating: 8.2,
     ratingWidth: 82,
-    ratingBgc: 'linear-gradient(to bottom, #299a0b 0%, #299a0b 100%);',
+    //ratingBgc: 'linear-gradient(to bottom, #299a0b 0%, #299a0b 100%);',
     details: {
       adults: false,
       nonFiction: true
@@ -60,7 +60,7 @@ dataSource.books = [
     image: 'images/books/5.jpg',
     rating: 6.4,
     ratingWidth: 64,
-    ratingBgc: 'linear-gradient(to bottom, #b4df5b 0%,#b4df5b 100%);',
+    //ratingBgc: 'linear-gradient(to bottom, #b4df5b 0%,#b4df5b 100%);',
     price: 40,
     details: {
       adults: false,
